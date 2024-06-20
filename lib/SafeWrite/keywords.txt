@@ -1,0 +1,4 @@
+SafeWrite	KEYWORD1
+init	KEYWORD2
+write	KEYWORD2
+create	KEYWORD2
